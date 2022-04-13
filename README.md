@@ -28,7 +28,7 @@ Repositório de projetos que ajudei a desenvolver ao longo da [Licenciatura](#li
 
 ### **2º ano - 2º semestre**
 
-- (12) [Sistemas Operativos](https://github.com/marshaia/uminho-miei/tree/main/Licenciatura/2ano/2semestre/Sistemas%20Operativos)
+- (15) [Sistemas Operativos](https://github.com/marshaia/uminho-miei/tree/main/Licenciatura/2ano/2semestre/Sistemas%20Operativos)
 - (12) [Programação Orientada aos Objetos](https://github.com/marshaia/uminho-miei/tree/main/Licenciatura/2ano/2semestre/Programa%C3%A7%C3%A3o%20Orientada%20aos%20Objetos)
 - (--) [Redes de Computadores](https://github.com/marshaia/uminho-miei/tree/main/Licenciatura/2ano/2semestre/Redes%20de%20Computadores)
 - (--) [Investigação Operacional](https://github.com/marshaia/uminho-miei/tree/main/Licenciatura/2ano/2semestre/Investiga%C3%A7%C3%A3o%20Operacional)
