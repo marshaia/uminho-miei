@@ -1,6 +1,7 @@
 # **uminho-miei**
 
-Repositório de projetos que ajudei a desenvolver ao longo da [Licenciatura](#licenciatura) em Engenharia Informática na Universidade do Minho em conjunto com a nota obtida nos mesmos.
+Alguns projetos que ajudei a desenvolver ao longo da [Licenciatura](#licenciatura) em Engenharia Informática na Universidade do Minho em conjunto com a nota obtida nos mesmos.
+**Nota:** Alguns destes projetos estão localizados noutros repositórios.
 
 <!--- e [Mestrado](#mestrado)--->
 
