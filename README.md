@@ -15,7 +15,7 @@ Repositório de projetos que ajudei a desenvolver ao longo da [Licenciatura](#li
 
 ### <a id="l12">  </a> **1º ano - 2º semestre**
 
-- (18) [Laboratórios de Informática II]()
+- (18) [Laboratórios de Informática II](https://github.com/marshaia/uminho-miei/tree/main/Licenciatura/1ano/Laborat%C3%B3rios%20de%20Inform%C3%A1tica%20II)
 
 
 
