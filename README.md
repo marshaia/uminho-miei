@@ -28,8 +28,8 @@ Repositório de projetos que ajudei a desenvolver ao longo da [Licenciatura](#li
 
 - (12) [Sistemas Operativos](https://github.com/marshaia/uminho-miei/tree/main/Licenciatura/2ano/2semestre/Sistemas%20Operativos)
 - (12) [Programação Orientada aos Objetos](https://github.com/marshaia/uminho-miei/tree/main/Licenciatura/2ano/2semestre/Programa%C3%A7%C3%A3o%20Orientada%20aos%20Objetos)
-- (--) [Redes de Computadores]()
-- (--) [Investigação Operacional]()
+- (--) Redes de Computadores
+- (--) Investigação Operacional
 
 ### <a id="l31">  </a> **3º ano - 1º semestre**
 
@@ -40,10 +40,10 @@ Repositório de projetos que ajudei a desenvolver ao longo da [Licenciatura](#li
 - (15) [Laboratórios de Informática IV](https://github.com/marshaia/LI4-21-22)
 - (11) [Sistemas Distribuídos](https://github.com/marshaia/uminho-miei/tree/main/Licenciatura/3ano/1semestre/Sistemas%20Distribu%C3%ADdos)
 
-### <a id="l32">  </a> **3º ano - 1º semestre**
+### <a id="l32">  </a> **3º ano - 2º semestre**
 
-- (--) [Processamento de Linguagens]()
-- (--) [Aprendizagem e Decisão Inteligentes]()
+- (--) Processamento de Linguagens
+- (--) Aprendizagem e Decisão Inteligentes
 
 
 
