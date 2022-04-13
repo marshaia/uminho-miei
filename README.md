@@ -1,7 +1,6 @@
 # **uminho-miei**
 
-Alguns projetos que ajudei a desenvolver ao longo da [Licenciatura](#licenciatura) em Engenharia Informática na Universidade do Minho em conjunto com a nota obtida nos mesmos.
-**Nota:** Alguns destes projetos estão localizados noutros repositórios.
+Repositório de projetos que ajudei a desenvolver ao longo da [Licenciatura](#licenciatura) em Engenharia Informática na Universidade do Minho em conjunto com a nota obtida nos mesmos.
 
 <!--- e [Mestrado](#mestrado)--->
 
@@ -22,24 +21,24 @@ Alguns projetos que ajudei a desenvolver ao longo da [Licenciatura](#licenciatur
 
 ### <a id="l21">  </a> **2º ano - 1º semestre**
 
-- (14) [Comunicação de Dados]()
+- (14) [Comunicação de Dados](https://github.com/marshaia/SHAFT-CD-20-21)
 - (15) [Laboratórios de Informática III]()
 
 ### <a id="l22">  </a> **2º ano - 2º semestre**
 
-- (12) [Sistemas Operativos]()
-- (12) [Programação Orientada aos Objetos]()
+- (12) [Sistemas Operativos](https://github.com/marshaia/uminho-miei/tree/main/Licenciatura/2ano/2semestre/Sistemas%20Operativos)
+- (12) [Programação Orientada aos Objetos](https://github.com/marshaia/uminho-miei/tree/main/Licenciatura/2ano/2semestre/Programa%C3%A7%C3%A3o%20Orientada%20aos%20Objetos)
 - (--) [Redes de Computadores]()
 - (--) [Investigação Operacional]()
 
 ### <a id="l31">  </a> **3º ano - 1º semestre**
 
-- (11) [Cálculo de Programas]()
-- (16) [Comunicações por Computador]()
-- (12) [Desenvolvimento de Sistemas de Software]()
-- (16) [Inteligência Artificial]()
-- (15) [Laboratórios de Informática IV]()
-- (11) [Sistemas Distribuídos]()
+- (11) [Cálculo de Programas](https://github.com/marshaia/uminho-miei/tree/main/Licenciatura/3ano/1semestre/C%C3%A1lculo%20de%20Programas)
+- (16) [Comunicações por Computador](https://github.com/marshaia/CC-21-22)
+- (12) [Desenvolvimento de Sistemas de Software](https://github.com/marshaia/uminho-miei/tree/main/Licenciatura/3ano/1semestre/Desenvolvimento%20de%20Sistemas%20de%20Software)
+- (16) [Inteligência Artificial](https://github.com/marshaia/uminho-miei/tree/main/Licenciatura/3ano/1semestre/Intelig%C3%AAncia%20Artificial)
+- (15) [Laboratórios de Informática IV](https://github.com/marshaia/LI4-21-22)
+- (11) [Sistemas Distribuídos](https://github.com/marshaia/uminho-miei/tree/main/Licenciatura/3ano/1semestre/Sistemas%20Distribu%C3%ADdos)
 
 ### <a id="l32">  </a> **3º ano - 1º semestre**
 
@@ -47,31 +46,6 @@ Alguns projetos que ajudei a desenvolver ao longo da [Licenciatura](#licenciatur
 - (--) [Aprendizagem e Decisão Inteligentes]()
 
 
-# **CC-TP2-21.22**
-Projeto de Comunicações por Computador (2021/2022) - FolderFastSync
-#
-## Feito por:
-- [A93290 - Joana Alves](https://github.com/marshaia)
-- [A84240 - Jorge Vieira](https://github.com/JorgeVieyra) 
-
-#
-### Condições de Utilização:
-Para a utilização desta aplicação é necessário:
-  - sistema baseado em **Linux**;
-  - ter *java JDK* instalado;
-  
-  
-#
-### Modo de Utilização:
-Depois de compilar o executável, pela linha de comando navegue até à diretoria onde colocou o executável. Note que a aplicação criará um ficheiro de texto para cada conexão.
-De seguida, para utilizar o executável digite na linha de comando:
-
-    $ java -jar [executavel] [PASTA] [IP1] [IP2] ...
-
-onde:
-  - **[executavel]** é o nome do ficheiro executável com extensão .jar criado após a compilação.
-  - **[PASTA]** é o path da pasta alvo de sincronização;
-  - **IP1/IP2** são os IPs aos quais gostaria de conectar.
 
 
 
