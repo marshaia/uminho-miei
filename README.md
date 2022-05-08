@@ -35,16 +35,16 @@ Repositório de projetos que ajudei a desenvolver ao longo da [Licenciatura](#li
 
 ### **3º ano - 1º semestre**
 
-- (11) [Cálculo de Programas](https://github.com/marshaia/uminho-miei/tree/main/Licenciatura/3ano/1semestre/C%C3%A1lculo%20de%20Programas)
+- (11) [Cálculo de Programas](https://github.com/marshaia/uminho-miei/tree/main/Licenciatura/3ano/C%C3%A1lculo%20de%20Programas)
 - (16) [Comunicações por Computador](https://github.com/marshaia/CC-21-22)
-- (12) [Desenvolvimento de Sistemas de Software](https://github.com/marshaia/uminho-miei/tree/main/Licenciatura/3ano/1semestre/Desenvolvimento%20de%20Sistemas%20de%20Software)
-- (16) [Inteligência Artificial](https://github.com/marshaia/uminho-miei/tree/main/Licenciatura/3ano/1semestre/Intelig%C3%AAncia%20Artificial)
+- (12) [Desenvolvimento de Sistemas de Software](https://github.com/marshaia/uminho-miei/tree/main/Licenciatura/3ano/Desenvolvimento%20de%20Sistemas%20de%20Software)
+- (16) [Inteligência Artificial](https://github.com/marshaia/uminho-miei/tree/main/Licenciatura/3ano/Intelig%C3%AAncia%20Artificial)
 - (15) [Laboratórios de Informática IV](https://github.com/marshaia/LI4-21-22)
-- (11) [Sistemas Distribuídos](https://github.com/marshaia/uminho-miei/tree/main/Licenciatura/3ano/1semestre/Sistemas%20Distribu%C3%ADdos)
+- (11) [Sistemas Distribuídos](https://github.com/marshaia/uminho-miei/tree/main/Licenciatura/3ano/Sistemas%20Distribu%C3%ADdos)
 
 ### **3º ano - 2º semestre**
 
-- (--) [Processamento de Linguagens](https://github.com/marshaia/uminho-miei/tree/main/Licenciatura/3ano/2semestre/Processamento%20de%20Linguagens)
+- (--) [Processamento de Linguagens](https://github.com/marshaia/uminho-miei/tree/main/Licenciatura/3ano/Processamento%20de%20Linguagens)
 - (--) [Aprendizagem e Decisão Inteligentes](https://github.com/marshaia/ADI-21-22)
 
 
