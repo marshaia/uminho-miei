@@ -44,7 +44,7 @@ Repositório de projetos que ajudei a desenvolver ao longo da [Licenciatura](#li
 
 ### **3º ano - 2º semestre**
 
-- (--) [Processamento de Linguagens](https://github.com/marshaia/uminho-miei/tree/main/Licenciatura/3ano/Processamento%20de%20Linguagens)
+- (18) [Processamento de Linguagens](https://github.com/marshaia/uminho-miei/tree/main/Licenciatura/3ano/Processamento%20de%20Linguagens)
 - (15) [Aprendizagem e Decisão Inteligentes](https://github.com/marshaia/ADI-21-22)
 
 
