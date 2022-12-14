@@ -1,8 +1,7 @@
 # **uminho-miei**
 
-Repositório de projetos que ajudei a desenvolver ao longo da [Licenciatura](#licenciatura) em Engenharia Informática na Universidade do Minho em conjunto com a nota obtida nos mesmos.
+Repositório de projetos que ajudei a desenvolver ao longo da [Licenciatura](#licenciatura) e do [Mestrado](#mestrado) em Engenharia Informática na Universidade do Minho em conjunto com a nota obtida nos mesmos.
 
-<!--- e [Mestrado](#mestrado)--->
 
 
 
@@ -52,10 +51,15 @@ Repositório de projetos que ajudei a desenvolver ao longo da [Licenciatura](#li
 
 
 
-<!--- 
 
 #
 ## <a id="mestrado">  </a>  **Mestrado**
 
+### **1º ano - 1º semestre**
 
---->
+- [Aplicações e Serviços de Computação em Nuvem]()
+- [Computação Paralela]()
+- [Dados e Aprendizagem Automática]()
+- [Engenharia de Serviços em Rede]()
+- [Métodos Formais em Engenharia de Software]()
+- [Requisitos e Arquiteturas de Software]()
