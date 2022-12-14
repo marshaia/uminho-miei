@@ -6,5 +6,5 @@ Projeto desenvolvido no âmbito da unidade curricular Engenharia de Serviços em
 
 ## **Autores:**
 - PG46528 - Danilo Oliveira
-- [Joana Alves - PG50457](https://github.com/marshaia)
-- [Vicente Moreira - PG50799](https://github.com/VicShadow)
+- [PG50457 - Joana Alves](https://github.com/marshaia)
+- [PG50799 - Vicente Moreira](https://github.com/VicShadow)
