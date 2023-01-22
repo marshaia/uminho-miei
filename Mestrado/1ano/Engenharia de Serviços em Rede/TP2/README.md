@@ -5,6 +5,6 @@ Projeto desenvolvido no âmbito da unidade curricular Engenharia de Serviços em
 **Tema:** Serviço *Over the Top* para entrega de multimédia.
 
 ## **Autores:**
-- PG46528 - Danilo Oliveira
-- [PG50457 - Joana Alves](https://github.com/marshaia)
-- [PG50799 - Vicente Moreira](https://github.com/VicShadow)
+- Danilo Oliveira
+- [Joana Alves](https://github.com/marshaia)
+- [Vicente Moreira](https://github.com/VicShadow)
