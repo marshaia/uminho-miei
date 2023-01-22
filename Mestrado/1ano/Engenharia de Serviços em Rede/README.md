@@ -14,6 +14,5 @@ Projeto desenvolvido no âmbito da unidade curricular Engenharia de Serviços em
 ### **Notas Obtidas em Cada Trabalho:**
 - TP **1**: `-`
 - TP **2**: `-`
-- 
 
 **Nota Final:** `-` valores
