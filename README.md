@@ -5,7 +5,7 @@ Repositório de projetos que ajudei a desenvolver ao longo da [Licenciatura](#li
 
 
 
-#
+
 ## <a id="licenciatura">  </a>  **Licenciatura**
 
 ### **1º ano - 1º semestre**
@@ -52,7 +52,7 @@ Repositório de projetos que ajudei a desenvolver ao longo da [Licenciatura](#li
 
 
 
-#
+
 ## <a id="mestrado">  </a>  **Mestrado**
 
 ### **1º ano - 1º semestre**
