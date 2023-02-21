@@ -1,4 +1,4 @@
-# **uminho-miei**
+# **Projetos Académicos**
 
 Repositório de projetos que ajudei a desenvolver ao longo da [Licenciatura](#licenciatura) e do [Mestrado](#mestrado) em Engenharia Informática na Universidade do Minho em conjunto com a nota obtida nos mesmos.
 
@@ -52,7 +52,7 @@ Repositório de projetos que ajudei a desenvolver ao longo da [Licenciatura](#li
 
 
 
-#
+
 ## <a id="mestrado">  </a>  **Mestrado**
 
 ### **1º ano - 1º semestre**
