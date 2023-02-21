@@ -5,7 +5,7 @@ Repositório de projetos que ajudei a desenvolver ao longo da [Licenciatura](#li
 
 
 
-#
+
 ## <a id="licenciatura">  </a>  **Licenciatura**
 
 ### **1º ano - 1º semestre**
@@ -63,3 +63,13 @@ Repositório de projetos que ajudei a desenvolver ao longo da [Licenciatura](#li
 - (17) [Engenharia de Serviços em Rede](https://github.com/marshaia/uminho-miei/tree/main/Mestrado/1ano/Engenharia%20de%20Servi%C3%A7os%20em%20Rede)
 - (20) [Métodos Formais em Engenharia de Software](https://github.com/marshaia/uminho-miei/tree/main/Mestrado/1ano/M%C3%A9todos%20Formais%20em%20Engenharia%20de%20Software)
 - (17) [Requisitos e Arquiteturas de Software](https://github.com/marshaia/RAS-22-23)
+
+
+
+
+### **1º ano - 2º semestre**
+Este semestre consistiu na escolha de dois perfis de mestrado, tendo cada um três cadeiras orientadas ao mesmo. Assim, apresento cada um dos perfis escolhidos por mim, seguido das cadeiras correspondentes ao mesmo:
+
+- **Perfil**: Engenharia de Aplicações
+  - (-) [Arquiteturas Aplicacionais](https://github.com/marshaia/AA-22-23)
+  - (-) [Sistemas Interativos Confiáveis](https://github.com/marshaia/AA-22-23)
