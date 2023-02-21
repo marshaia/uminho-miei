@@ -68,7 +68,7 @@ Repositório de projetos que ajudei a desenvolver ao longo da [Licenciatura](#li
 
 
 ### **1º ano - 2º semestre**
-Este semestre consistiu na escolha de dois perfis de mestrado, tendo cada um três cadeiras orientadas ao mesmo. Assim, apresento cada um dos perfis escolhidos por mim, seguido das cadeiras correspondentes ao mesmo:
+Este semestre consistiu na escolha de dois perfis de mestrado, tendo cada um três cadeiras orientadas ao mesmo. Assim, apresento cada um dos perfis escolhidos por mim, seguido das cadeiras correspondentes aos mesmos:
 
 - **Perfil**: Engenharia de Aplicações
   - (-) [Arquiteturas Aplicacionais](https://github.com/marshaia/AA-22-23)
