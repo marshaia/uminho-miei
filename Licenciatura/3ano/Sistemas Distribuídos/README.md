@@ -1,8 +1,13 @@
-# SD-21-22-SRV
-Projeto de Sistemas Distribuídos - Sistema de Reserva de Voos
+# **SD-21-22**
 
-## Feito por:
+Projeto desenvolvido no âmbito da unidade curricular de Sistemas Distribuídos da Licenciatura em Engenharia Informática.
+
+**Tema:** Sistema de Reserva de Voos
+
+
+
+## **Autores**:
 - [A93253 - David Duarte](https://github.com/DvdDuarte) 
 - [A93290 - Joana Alves](https://github.com/marshaia)
-- [A93264 - Maria Eugénia Bessa Cunha](https://github.com/stellaechild)
-- [A93296 - Vicente Gonçalves Moreira](https://github.com/VicShadow)
+- [A93264 - Maria Bessa Cunha](https://github.com/stellaechild)
+- [A93296 - Vicente Moreira](https://github.com/VicShadow)
