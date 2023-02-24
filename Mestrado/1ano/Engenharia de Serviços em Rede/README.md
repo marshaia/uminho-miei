@@ -1,8 +1,7 @@
 # ESR-22-23
 
-Projeto desenvolvido no âmbito da unidade curricular Engenharia de Serviços em Rede do Mestrado em Engenharia Informática.
+Relatório e Projeto desenvolvidos no âmbito da unidade curricular Engenharia de Serviços em Rede do Mestrado em Engenharia Informática.
 
-#
 
 ## **Autores**:
 - Danilo Oliveira
