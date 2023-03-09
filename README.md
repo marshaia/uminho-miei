@@ -73,3 +73,10 @@ Este semestre consistiu na escolha de dois perfis de mestrado, tendo cada um tr�
 - **Perfil**: Engenharia de Aplicações
   - (-) [Arquiteturas Aplicacionais](https://github.com/marshaia/AA-22-23)
   - (-) [Sistemas Interativos Confiáveis](https://github.com/marshaia/AA-22-23)
+  - (-) Administração de Bases de Dados
+
+
+- **Perfil**: Desenvolvimento, Validação e Manutenção de Software
+  - (-) Experimentação em Engenharia de Software
+  - (-) Manutenção e Evolução de Software
+  - (-) Tópicos de Desenvolvimento de Software
