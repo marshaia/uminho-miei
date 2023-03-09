@@ -1,8 +1,8 @@
-# IA
-Projeto de Inteligência Artificial, 3º ano (2021/2022), Licenciatura em Engenharia Informática.
+# **IA-21-22**
+Projeto desenvolvido no âmbito da unidade curricular de Inteligência Artificial da Licenciatura em Engenharia Informática.
 
-# 
-## Realizado por:
+
+## **Autores**:
 - [Joana Alves - A93290](https://github.com/marshaia)   
 - [Maria Cunha - A93264](https://github.com/stellaechild)
 - [Vicente Moreira - A93296](https://github.com/VicShadow)
