@@ -79,4 +79,4 @@ Este semestre consistiu na escolha de dois perfis de mestrado, tendo cada um tr�
 - **Perfil**: Desenvolvimento, Validação e Manutenção de Software
   - (-) Experimentação em Engenharia de Software
   - (-) Manutenção e Evolução de Software
-  - (-) Tópicos de Desenvolvimento de Software
+  - (-) [Tópicos de Desenvolvimento de Software](https://github.com/marshaia/TDS-22-23)
