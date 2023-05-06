@@ -43,7 +43,8 @@ Repositório de projetos que ajudei a desenvolver ao longo da [Licenciatura](#li
 
 ### **3º ano - 2º semestre**
 
-- (18) [Processamento de Linguagens](https://github.com/marshaia/uminho-miei/tree/main/Licenciatura/3ano/Processamento%20de%20Linguagens)
+- (-) [Computação Gráfica](https://github.com/marshaia/CG-22-23)
+- (18) [Processamento de Linguagens](https://github.com/marshaia/PL-21-22)
 - (15) [Aprendizagem e Decisão Inteligentes](https://github.com/marshaia/ADI-21-22)
 
 
@@ -70,13 +71,13 @@ Repositório de projetos que ajudei a desenvolver ao longo da [Licenciatura](#li
 ### **1º ano - 2º semestre**
 Este semestre consistiu na escolha de dois perfis de mestrado, tendo cada um três cadeiras orientadas ao mesmo. Assim, apresento cada um dos perfis escolhidos por mim, seguido das cadeiras correspondentes aos mesmos:
 
-- **Perfil**: Engenharia de Aplicações
+- **Perfil**: Engenharia de Aplicações (__EA__)
   - (-) [Arquiteturas Aplicacionais](https://github.com/marshaia/AA-22-23)
   - (-) [Sistemas Interativos Confiáveis](https://github.com/marshaia/AA-22-23)
   - (-) Administração de Bases de Dados
 
 
-- **Perfil**: Desenvolvimento, Validação e Manutenção de Software
+- **Perfil**: Desenvolvimento, Validação e Manutenção de Software (__SDVM__)
   - (-) Experimentação em Engenharia de Software
   - (-) Manutenção e Evolução de Software
   - (-) [Tópicos de Desenvolvimento de Software](https://github.com/marshaia/TDS-22-23)
