@@ -74,7 +74,7 @@ Este semestre consistiu na escolha de dois perfis de mestrado, tendo cada um tr�
 - **Perfil**: Engenharia de Aplicações (__EA__)
   - (-) [Arquiteturas Aplicacionais](https://github.com/marshaia/AA-22-23)
   - (-) [Sistemas Interativos Confiáveis](https://github.com/marshaia/AA-22-23)
-  - (-) Administração de Bases de Dados
+  - (-) [Administração de Bases de Dados](https://github.com/marshaia/uminho-miei/tree/main/Mestrado/1ano/Administra%C3%A7%C3%A3o%20de%20Bases%20de%20Dados)
 
 
 - **Perfil**: Desenvolvimento, Validação e Manutenção de Software (__SDVM__)
