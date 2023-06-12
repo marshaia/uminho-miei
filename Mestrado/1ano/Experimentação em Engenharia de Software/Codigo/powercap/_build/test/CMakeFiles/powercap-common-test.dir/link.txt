@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/powercap-common-test.dir/powercap-common-test.c.o CMakeFiles/powercap-common-test.dir/__/src/powercap-common.c.o -o powercap-common-test 

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libraplcap-powercap.a CMakeFiles/raplcap-powercap.dir/raplcap-powercap.c.o CMakeFiles/raplcap-powercap.dir/powercap-intel-rapl.c.o
+/usr/bin/ranlib libraplcap-powercap.a

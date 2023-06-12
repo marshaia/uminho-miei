@@ -1,0 +1,2 @@
+/usr/bin/ar qc libraplcap-msr.a CMakeFiles/raplcap-msr.dir/raplcap-msr.c.o CMakeFiles/raplcap-msr.dir/raplcap-msr-common.c.o CMakeFiles/raplcap-msr.dir/raplcap-msr-sys-linux.c.o CMakeFiles/raplcap-msr.dir/raplcap-cpuid.c.o
+/usr/bin/ranlib libraplcap-msr.a

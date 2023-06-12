@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/powercap-test.dir/powercap-test.c.o -o powercap-test  ../libpowercap.a 

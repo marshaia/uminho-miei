@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/raplcap-msr-unit-test.dir/__/test/raplcap-unit-test.c.o -o raplcap-msr-unit-test  libraplcap-msr.a 

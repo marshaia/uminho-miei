@@ -1,0 +1,13 @@
+prefix=/usr/local
+exec_prefix=${prefix}
+includedir=${prefix}/include/raplcap
+libdir=${exec_prefix}/lib
+
+Name: raplcap-powercap
+Description: Implementation of RAPLCap that uses libpowercap (powercap)
+Version: 0.8.1
+Requires: 
+Requires.private: powercap >= 0.4.0
+Cflags: -I${includedir}
+Libs: -L${libdir} -lraplcap-powercap
+Libs.private: 

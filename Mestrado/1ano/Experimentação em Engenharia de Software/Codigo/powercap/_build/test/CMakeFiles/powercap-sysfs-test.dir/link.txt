@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/powercap-sysfs-test.dir/powercap-sysfs-test.c.o -o powercap-sysfs-test  ../libpowercap.a 

@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/rapl-configure-msr.dir/__/rapl-configure/rapl-configure.c.o -o rapl-configure-msr  libraplcap-msr.a 

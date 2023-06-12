@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/powercap-rapl-test.dir/powercap-rapl-test.c.o -o powercap-rapl-test  ../libpowercap.a 

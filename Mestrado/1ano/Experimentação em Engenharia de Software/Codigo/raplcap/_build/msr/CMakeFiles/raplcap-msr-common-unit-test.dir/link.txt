@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/raplcap-msr-common-unit-test.dir/test/raplcap-msr-common-test.c.o CMakeFiles/raplcap-msr-common-unit-test.dir/raplcap-msr-common.c.o CMakeFiles/raplcap-msr-common-unit-test.dir/raplcap-cpuid.c.o -o raplcap-msr-common-unit-test 

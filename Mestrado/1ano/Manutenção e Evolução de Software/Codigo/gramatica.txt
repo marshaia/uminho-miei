@@ -1,0 +1,109 @@
+
+LINGUAGEM:
+- funções (tanto function calls como declarações de funções)
+- statements 
+    - ciclos: for e while
+    - if then else
+    - atribuições
+    - return
+- declarações  --- int a
+- expressões (operadores: +, -, *, /, <, >, ==, >=, <=, ||, &&, !, true, false)
+
+
+--------------------------------------------------------------
+                        GRAMÁTICA
+--------------------------------------------------------------
+
+Gramática: Statements ';' Gramática
+         | vazio
+
+Statements : Atribuicao
+           | While
+           | For 
+           | If
+           | FunctionCall
+           | DefFunction
+           | Declaracao
+           | Math
+
+Atribuicao : String '=' Exp
+
+While : 'while' '(' Logica ')' '{'  InsideFunc  '}'
+
+For : 'for' '(' ForArgs ')' '{' InsideFunc '}'
+ForArgs : Atribuicao ';' Logica ';' Atribuicao
+
+If : 'if' '(' Logica ')' '{' InsideFunc '}' Else 
+Else : 'else' '{' InsideFunc '}'
+     | vazio
+
+
+FunctionCall : 'fun' String '(' ArgumentosCall ')'
+ArgumentosCall : Argumento ',' ArgumentosCall
+               | Argumento
+Argumento : String
+          | Exp
+
+
+DefFunction : 'function' String '('  ArgumentosDef ')' '{' InsideFunc '}'
+ArgumentosDef : Declaracao ',' ArgumentosDef
+              | Declaracao
+InsideFunc : StatementsFunc ';' InsideFunc
+           | vazio 
+StatementsFunc :  Math
+           | Atribuicao
+           | While 
+           | If
+           | FunctionCall
+           | Declaracao
+           | Return
+
+
+Return : "return" Math
+
+Declaracao : Type String
+
+Math : Logica
+     | Inequacao
+     | Exp
+
+
+---------------------------------------------------
+
+
+Logica: '!' '(' Logica ')'
+      | Inequacao '||' Logica
+      | Inequacao '&&' Logica
+      | Boolean
+      | Inequacao
+
+
+Boolean : "true"
+        | "false"
+
+
+Inequacao: Exp '<' Exp
+         | Exp '>' Exp
+         | Exp '<=' Exp 
+         | Exp '>=' Exp  
+         | Exp '==' Exp
+         | Exp '!=' Exp
+         | Exp
+
+Exp    -> Termo '+' Exp
+        | Termo '-' Exp
+        | Termo
+
+Termo  -> Factor '*' Termo
+        | Factor '/' Termo
+        | Factor
+
+Factor -> int
+        | var
+        | '('  Exp ')'
+
+
+Type : 'int'
+      | 'float'
+      | 'double' 
+      | 'string'

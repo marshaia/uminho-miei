@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/powercap-set.dir/powercap-set.c.o CMakeFiles/powercap-set.dir/util-common.c.o -o powercap-set  ../libpowercap.a 

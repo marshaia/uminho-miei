@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/raplcap-msr-integration-test.dir/__/test/raplcap-integration-test.c.o -o raplcap-msr-integration-test  libraplcap-msr.a 

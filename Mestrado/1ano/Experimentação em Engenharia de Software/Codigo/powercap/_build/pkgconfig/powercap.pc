@@ -1,0 +1,11 @@
+prefix=/usr/local
+exec_prefix=${prefix}
+includedir=${prefix}/include/powercap
+libdir=${exec_prefix}/lib
+
+Name: powercap
+Description: C bindings to the Linux Power Capping Framework in sysfs
+Version: 0.6.1
+Cflags: -I${includedir}
+Libs: -L${libdir} -lpowercap
+Libs.private: 

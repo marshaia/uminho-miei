@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/rapl-info.dir/rapl-info.c.o CMakeFiles/rapl-info.dir/util-common.c.o -o rapl-info  ../libpowercap.a 
