@@ -78,6 +78,6 @@ Este semestre consistiu na escolha de dois perfis de mestrado, tendo cada um tr�
 
 
 - **Perfil**: Desenvolvimento, Validação e Manutenção de Software (__SDVM__)
-  - (-) Experimentação em Engenharia de Software
-  - (-) Manutenção e Evolução de Software
+  - (-) [Experimentação em Engenharia de Software](https://github.com/marshaia/uminho-miei/tree/main/Mestrado/1ano/Experimenta%C3%A7%C3%A3o%20em%20Engenharia%20de%20Software)
+  - (-) [Manutenção e Evolução de Software](https://github.com/marshaia/uminho-miei/tree/main/Mestrado/1ano/Manuten%C3%A7%C3%A3o%20e%20Evolu%C3%A7%C3%A3o%20de%20Software)
   - (-) [Tópicos de Desenvolvimento de Software](https://github.com/marshaia/TDS-22-23)
