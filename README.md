@@ -72,12 +72,12 @@ Repositório de projetos que ajudei a desenvolver ao longo da [Licenciatura](#li
 Este semestre consistiu na escolha de dois perfis de mestrado, tendo cada um três cadeiras orientadas ao mesmo. Assim, apresento cada um dos perfis escolhidos por mim, seguido das cadeiras correspondentes aos mesmos:
 
 - **Perfil**: Engenharia de Aplicações (__EA__)
-  - (-) [Arquiteturas Aplicacionais](https://github.com/marshaia/AA-22-23)
-  - (-) [Sistemas Interativos Confiáveis](https://github.com/marshaia/AA-22-23)
+  - (16) [Arquiteturas Aplicacionais](https://github.com/marshaia/AA-22-23)
+  - (16) [Sistemas Interativos Confiáveis](https://github.com/marshaia/AA-22-23)
   - (17) [Administração de Bases de Dados](https://github.com/marshaia/uminho-miei/tree/main/Mestrado/1ano/Administra%C3%A7%C3%A3o%20de%20Bases%20de%20Dados)
 
 
 - **Perfil**: Desenvolvimento, Validação e Manutenção de Software (__SDVM__)
-  - (-) [Experimentação em Engenharia de Software](https://github.com/marshaia/uminho-miei/tree/main/Mestrado/1ano/Experimenta%C3%A7%C3%A3o%20em%20Engenharia%20de%20Software)
-  - (-) [Manutenção e Evolução de Software](https://github.com/marshaia/uminho-miei/tree/main/Mestrado/1ano/Manuten%C3%A7%C3%A3o%20e%20Evolu%C3%A7%C3%A3o%20de%20Software)
+  - (18) [Experimentação em Engenharia de Software](https://github.com/marshaia/uminho-miei/tree/main/Mestrado/1ano/Experimenta%C3%A7%C3%A3o%20em%20Engenharia%20de%20Software)
+  - (18) [Manutenção e Evolução de Software](https://github.com/marshaia/uminho-miei/tree/main/Mestrado/1ano/Manuten%C3%A7%C3%A3o%20e%20Evolu%C3%A7%C3%A3o%20de%20Software)
   - (18) [Tópicos de Desenvolvimento de Software](https://github.com/marshaia/TDS-22-23)
