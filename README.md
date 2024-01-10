@@ -58,7 +58,7 @@ Repositório de projetos que ajudei a desenvolver ao longo da [Licenciatura](#li
 
 ### **1º ano - 1º semestre**
 
-<!-- - Aplicações e Serviços de Computação em Nuvem -->
+- (19) [Aplicações e Serviços de Computação em Nuvem](https://github.com/marshaia/ASCN-23-24)
 - (15) [Computação Paralela](https://github.com/marshaia/CP-22-23)
 - (16) [Dados e Aprendizagem Automática](https://github.com/marshaia/uminho-miei/tree/main/Mestrado/1ano/Dados%20e%20Aprendizagem%20Autom%C3%A1tica)
 - (17) [Engenharia de Serviços em Rede](https://github.com/marshaia/uminho-miei/tree/main/Mestrado/1ano/Engenharia%20de%20Servi%C3%A7os%20em%20Rede)
